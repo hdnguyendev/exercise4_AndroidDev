@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="GradientButtonStyle">
+        <item name="android:background">@drawable/gradient_btn</item>
+    </style>s
+</resources>
